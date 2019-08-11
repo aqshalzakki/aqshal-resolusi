@@ -1,6 +1,11 @@
 Resolusi tahun ini
 
 - Rajin belajar (ngoding)
+  * Css
+  * Git & github
+  * Database
+  * Framework php (laravel & codeigniter)
+ 
 - hemat
 - konsisten
 - keep santuyy
