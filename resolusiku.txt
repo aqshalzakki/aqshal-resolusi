@@ -4,8 +4,10 @@ Resolusi tahun ini
   * Css
   * Git & github
   * Database
-  * Framework php (laravel & codeigniter)
- 
+  * Framework php (codeigniter)
+  * Python
+  * Javascript
+  
 - hemat
 - konsisten
 - keep santuyy
